@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7VU5V3FF8W.com.tw466376.MeishiBox"],
+        "components": [{ "/": "/en-cards/c/*", "comment": "電子名片連結：裝了 App 直接打開 App" }]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["7VU5V3FF8W.com.tw466376.MeishiBox.Clip"]
+  }
+}
