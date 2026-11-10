@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tw.tw466376.encards",
+      "sha256_cert_fingerprints": [
+        "40:8F:74:D5:A1:4F:DE:76:69:09:D2:CF:3C:F5:13:FD:BC:2E:14:60:7B:14:ED:D2:CD:3A:73:25:A3:E1:AF:E6",
+        "87:F1:7A:B9:59:B3:60:77:18:9D:B2:4C:9A:F4:74:5B:9D:7B:19:43:9B:16:DA:1A:B9:C8:38:4B:58:BE:FA:8C"
+      ]
+    }
+  }
+]
